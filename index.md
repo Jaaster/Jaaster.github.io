@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+![](/images/profile.png)
+
 
 # **HOURLY RATE $20h**
 
