@@ -4,8 +4,12 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Hire Me threw **UpWork**](./another-page.html).
 
-There should be whitespace between paragraphs.
+Greetings! I'm Joriah (Joe-rye-ahh), 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+I've been developing software for half-decade and am currently the lead iOS Developer at [Devsmen](./another-page.html). I specialize in Native iOS Development and App Design and am always looking to improve my already very developed skills. 
+
+I've built a variety of Apps, ranging from Health and Fitness, Utilities, Social Networking, and just your "run in the mill" Apps.
+
+![alt text](https://github.com/jaaster/jaaster.github.io/images/icon/project1 "project one")
