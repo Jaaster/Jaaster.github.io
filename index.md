@@ -4,7 +4,7 @@ layout: default
 
 # **HOURLY RATE $20h**
 
-## HIRE ME ON [**UPWORK!!**](https://www.upwork.com/o/profiles/users/_~01d181d8189e02c77d/).
+## HIRE ME ON [**UPWORK!**](https://www.upwork.com/ab/profiles/search/?q=iOS%20Developer%20Joriah&user_pref=2)
 
 [EMAIL](mailto:joriahlasaterdev@gmail.com)
 
@@ -12,6 +12,7 @@ layout: default
 
 [YOUTUBE](https://www.youtube.com/channel/UC5LwceSUeH6ofIACJL-nr0w)
 
+DISCORD: Jaaster#5092
 
 ## About me: 
 
