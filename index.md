@@ -2,9 +2,23 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# **HOURLY RATE $20h**
 
-[Hire Me threw **UpWork**](./another-page.html).
+## HIRE ME ON [**UPWORK!!**](https://www.upwork.com/o/profiles/users/_~01d181d8189e02c77d/).
+
+**Contact Info:**
+
+[EMAIL](joriahlasaterdev@gmail.com)
+
+[TWITTER](https://twitter.com/Jaaster)
+
+[YOUTUBE](https://www.youtube.com/channel/UC5LwceSUeH6ofIACJL-nr0w)
+
+
+
+
+
+About Me:
 
 Greetings! I'm Joriah (Joe-rye-ahh), 
 
