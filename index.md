@@ -8,9 +8,9 @@ layout: default
 
 **Contact Info:**
 
-[EMAIL](joriahlasaterdev@gmail.com)
+[EMAIL](mailto:joriahlasaterdev@gmail.com)
 
-[TWITTER](https://twitter.com/Jaaster)
+[TWITTER](https://twitter.com/Jaaster_)
 
 [YOUTUBE](https://www.youtube.com/channel/UC5LwceSUeH6ofIACJL-nr0w)
 
@@ -18,12 +18,15 @@ layout: default
 
 
 
-About Me:
-
 Greetings! I'm Joriah (Joe-rye-ahh), 
 
 I've been developing software for half-decade and am currently the lead iOS Developer at [Devsmen](./another-page.html). I specialize in Native iOS Development and App Design and am always looking to improve my already very developed skills. 
 
 I've built a variety of Apps, ranging from Health and Fitness, Utilities, Social Networking, and just your "run in the mill" Apps.   
 
+
+# My Portfolio
+
 ![alt text](/images/project1.png "project one")
+
+
