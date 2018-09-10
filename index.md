@@ -27,6 +27,10 @@ I've built a variety of Apps, ranging from Health and Fitness, Utilities, Social
 
 # My Portfolio
 
-![alt text](/images/project1.png "project one")
+![alt text](/images/project4.png "WeHobby")
 
+![alt text](/images/project2.png "iEat App")
 
+![alt text](/images/project1.png "Easy Resume App")
+
+![alt text](/images/project3.png "Remember Why")
