@@ -24,10 +24,17 @@ I've built a variety of Apps, ranging from Health and Fitness, Utilities, Social
 
 # My Portfolio
 
-![alt text](/images/project4.png "WeHobby")
+![alt text](/images/p1.png "Easy Resume")
 
-![alt text](/images/project2.png "iEat App")
+![alt text](/images/p2.png "Deedz")
 
-![alt text](/images/project1.png "Easy Resume App")
+![alt text](/images/p3.png "Beer Buddy")
 
-![alt text](/images/project3.png "Remember Why")
+![alt text](/images/p4.png "WeHobby")
+
+![alt text](/images/p5.png "G.S.D.A")
+
+![alt text](/images/p6.png "iEAT")
+
+![alt text](/images/p7.png "RememberWhy")
+![alt text](/images/p8.png "B.Y.O.B")
