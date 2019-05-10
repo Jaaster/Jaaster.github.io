@@ -2,9 +2,7 @@
 layout: default
 ---
 
-# **HOURLY RATE $25h**
-
-## HIRE ME ON [**UPWORK!**](https://www.upwork.com/ab/profiles/search/?q=iOS%20Developer%20Joriah&user_pref=2)
+## CONTACT AND HIRE ME HERE!
 
 [EMAIL](mailto:joriahlasaterdev@gmail.com)
 
