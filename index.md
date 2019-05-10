@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[![VIDEO OF ME CREATING AN APP!](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/bbf2pKZ89hQ)
+
 ## CONTACT AND HIRE ME HERE!
 
 [EMAIL](mailto:joriahlasaterdev@gmail.com)
