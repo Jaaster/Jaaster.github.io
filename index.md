@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+## VIDEO OF ME DEVELOPING AN APP FROM SCRATCH!
 [![ME DEVELOPING AN APP!](https://img.youtube.com/vi/bbf2pKZ89hQ/0.jpg)](https://youtu.be/bbf2pKZ89hQ)
 
 ## CONTACT AND HIRE ME HERE!
@@ -18,7 +18,7 @@ DISCORD: Jaaster#5092
 
 Greetings! I'm Joriah (Joe-rye-ahh), 
 
-I've been developing software for half-decade and am currently the lead iOS Developer at [Devsmen](./another-page.html). I specialize in Native iOS Development and App Design and am always looking to improve my already very developed iOS development skills. 
+I've been developing software for half-decade, I originally started with Java creating mods/plugins for games, but now I specialize in Native iOS Development and App Design and am always looking to improve my already very developed iOS development skills.
 
 I've built a variety of Apps, ranging from Health and Fitness, Utilities, Social Networking, and just your "run in the mill" Apps.   
 
