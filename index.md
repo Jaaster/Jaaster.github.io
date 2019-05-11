@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[![VIDEO OF ME CREATING AN APP!](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/bbf2pKZ89hQ)
+[![ME DEVELOPING AN APP!](https://img.youtube.com/vi/bbf2pKZ89hQ/0.jpg)](https://youtu.be/bbf2pKZ89hQ)
 
 ## CONTACT AND HIRE ME HERE!
 
